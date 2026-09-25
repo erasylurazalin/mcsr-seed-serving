@@ -1,0 +1,5 @@
+# what the API image needs, nothing else
+fastapi
+uvicorn
+onnxruntime
+numpy

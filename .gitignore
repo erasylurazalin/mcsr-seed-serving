@@ -1,0 +1,14 @@
+# exported from mcsr-seed-difficulty, can always be re-exported
+data/
+
+# mlflow tracking store and run artifacts
+mlflow.db
+mlruns/
+mlartifacts/
+
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+CLAUDETODO.md

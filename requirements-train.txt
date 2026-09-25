@@ -1,0 +1,13 @@
+-r requirements-serve.txt
+
+# training, export, tracking. not in the image.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+onnx
+pandas
+pyarrow
+scikit-learn
+mlflow
+
+pytest
+httpx

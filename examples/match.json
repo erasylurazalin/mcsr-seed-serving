@@ -1,0 +1,27 @@
+{
+  "elo": [
+    1516,
+    1651
+  ],
+  "overworld": "RUINED_PORTAL",
+  "nether": "STABLES",
+  "end_towers": [
+    103,
+    85,
+    91,
+    97
+  ],
+  "variations": [
+    "type:structure:lava",
+    "chest:structure:looting_sword",
+    "biome:structure:birch_forest",
+    "type:structure:lava",
+    "chest:structure:looting_sword",
+    "biome:structure:birch_forest",
+    "bastion:good_gap:1",
+    "bastion:triple:3",
+    "biome:bastion:soul_sand_valley",
+    "biome:fortress:nether_wastes",
+    "end_spawn:buried:32"
+  ]
+}
