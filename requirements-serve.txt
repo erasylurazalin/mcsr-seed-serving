@@ -1,5 +1,6 @@
 # what the API image needs, nothing else
-fastapi
-uvicorn
-onnxruntime
-numpy
+# pinned to the versions the model was trained and tested against
+fastapi==0.141.1
+uvicorn==0.54.0
+onnxruntime==1.30.0
+numpy==2.5.3
